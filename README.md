@@ -4,8 +4,12 @@ Alien Robot Chatbot is a rule-based conversational agent that simulates an inter
 
 ### Features:
 Alien Personality: The chatbot embodies an alien who is curious about Earth and its strange customs.
+
 Rule-Based Conversations: The dialogue is driven by predefined questions and responses, ensuring consistent and engaging interactions.
+
 Expandable Design: The project is easily extendable, allowing you to add more questions, responses, and conversational rules.
+
 ##### Example Interactions:
 The alien asks about common Earth objects and customs, such as cars, clothes, and communication devices.
+
 The chatbot can describe its home planet and introduce itself as a robot with advanced capabilities.
